@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: dtjne-yxbrl
+created: 2025-03-26T17:25:14+02:00
